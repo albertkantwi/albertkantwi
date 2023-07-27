@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertkantwi&theme=dark&show_icons=true" alt="albertkantwi" /></p>
 
-<p><img display="flex" align="center" justify-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertkantwi" alt="albertkantwi" /></p>
+<p><img margin-left="100px" align="center" justify-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertkantwi" alt="albertkantwi" /></p>
