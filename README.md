@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Albert</h1>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
-<img alt="banner" width="100%" src= "" background-color="light-green">
-<h2 width="100%" background-color="light-green font weight="400">Full-Stack Developer</h2>
 
 - 💬 Ask about me: **Full-Stack Developer with passion for JavaScript, React, Rudex, Ruby, Ruby on Rails etc. I love sports and plays football on my free time.**
 
@@ -18,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albertkantwi&theme=dark&show_icons=true" alt="albertkantwi" /></p>
 
-<p><img margin-left="100px" align="center" justify-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertkantwi" alt="albertkantwi" /></p>
+<p><img align="center" justify-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=albertkantwi" alt="albertkantwi" /></p>
