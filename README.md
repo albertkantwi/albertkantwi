@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Albert</h1>
 <h3 align="center">A Remote Full-Stack Software Engineer Looking for new Opportunities!</h3>
 
-- 💬 Ask about me: **Full-Stack Developer with passion for JavaScript, React, Rudex, Ruby, Ruby on Rails etc. I love sports and plays football on my free time.**
+- 💬 Ask about me: **Full-Stack Developer with a passion for JavaScript, React, Rudex, Ruby, Ruby on Rails, etc. I love sports and play football in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
